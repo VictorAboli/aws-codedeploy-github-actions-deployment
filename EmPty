@@ -1,0 +1,4 @@
+cp -r aws-codedeploy-github-actions-deployment/. <new repository>
+e.g. GitActionsDeploytoAWS
+
+
